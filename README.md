@@ -34,8 +34,6 @@
 ![Homepage](./screenshots/food-delivery-app-homepage.png)  
 ![Analytics Chart](./screenshots/food-delivery-chart.png)  
 
-*(Include more screenshots showcasing features like the cart, checkout, and admin panel.)*
-
 ---
 
 ## 🛠️ Installation & Setup
