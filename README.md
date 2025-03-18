@@ -25,32 +25,35 @@
 ### 1️⃣ Clone the Repository
 ```sh
 git clone https://github.com/Aditya07771/Food-Delivery-App.git
-
+```
 
 ### 2️⃣ Navigate to the Project Directory
+```sh
 cd Food-Delivery-App
+```
 
 ## 3️⃣ Install Dependencies
+```sh
 npm install
+```
 
 ## 4️⃣ Start the Development Server
+```sh
 npm run dev
+```
 
-The app should now be running at http://localhost:5173.
+### 📝 Usage
 
-📝 Usage
-
-    Search for your favorite food items.
+    Search for your favourite food items 
     Add them to your cart and proceed to checkout.
     Experience a smooth and fast food ordering experience.
+    Note - The app should now be running at http://localhost:5173.
 
-👨‍💻 Author
+### 👨‍💻 Author
 
-    Aditya Nishad
-    GitHub: @Aditya07771
-    LinkedIn: 
+**Developer** -Aditya Nishad
 
-📜 License
+### 📜 License
 
 This project is licensed under the MIT License – feel free to use and modify it.
 
